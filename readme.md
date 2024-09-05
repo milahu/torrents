@@ -1,6 +1,17 @@
 # torrents
 
+## interesting torrents
+
+```
+magnet:?dn=Koan&xt=urn:btih:5ac0c38eda69f33cfaa09997c8ceff16e2a5bdcf
+```
+
+## seeded torrents
+
+<details open>
+<summary>
 btih hashes of my seeded torrents
+</summary>
 
 ```
 6cbea9cfb673821c13994fc1c341fefe2ad5990f
@@ -435,3 +446,5 @@ d69ee353998bd9124bc645a21d6b823048b2ada1
 ce87ff107fb0893a8809e32a2f2321c971c1a791
 a315480f2999aee96a2d2c313149cc1717f9f3dd
 ```
+
+</details>
